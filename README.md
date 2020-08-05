@@ -1,7 +1,7 @@
 # Flex-Div
 A temporary website created for the purpose of showcasing the website skills
 
-The website is live here: yogeshweb.epizy.com/eh
+The website is live here: http://yogeshweb.epizy.com/eh
 
 Also you can visit it via here: https://explorerhub.netlify.app/
 
